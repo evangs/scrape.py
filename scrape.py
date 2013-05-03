@@ -38,9 +38,9 @@ To do:
   - remove dependency on urllib.urlencode
 """
 
-__author__ = 'Ka-Ping Yee <ping@zesty.ca>'
-__date__ = '$Date: 2010-05-26 18:39:37 $'.split()[1].replace('/', '-')
-__version__ = '$Revision: 1.49 $'
+__author__ = 'Ka-Ping Yee <ping@zesty.ca> Evan Sailer <esailer@asu.edu>'
+__date__ = '$Date: 2013-05-03 14:18:37 $'.split()[1].replace('/', '-')
+__version__ = '$Revision: 1.50 $'
 
 from urlparse import urlsplit, urljoin
 from htmlentitydefs import name2codepoint
